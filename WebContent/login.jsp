@@ -7,6 +7,8 @@
 <title>Welcome !!!</title>
 </head>
 <body>
-
+Username :<input type="text" ><br><br>
+Password :<input type="text" ><br><br>
+<input type="submit" value="LOGIN"
 </body>
 </html>
